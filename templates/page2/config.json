@@ -1,0 +1,15 @@
+{
+    "threshold_params": {
+        "MIN_JUMP": 10
+    },
+    "dimensions": {
+        "display_height": 2400,
+        "display_width": 1800,
+        "processing_height": 2400,
+        "processing_width": 1800
+    },
+    "outputs": {
+        "show_image_level": 2,
+        "save_image_level": 6 
+    }
+}

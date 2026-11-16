@@ -1,0 +1,10 @@
+# OMRChecker is vendored as a git checkout in vendor/OMRChecker (no PyPI package).
+-r vendor/OMRChecker/requirements.txt
+# OMRChecker README asks for OpenCV; contrib is a superset of opencv-python,
+# and only one OpenCV package should be installed at a time.
+opencv-contrib-python
+
+# TrOCR (Hugging Face transformers)
+transformers
+torch
+pillow

@@ -1,0 +1,53 @@
+{
+  "pages": [
+    {
+      "page": "page1.jpg",
+      "page_type": "page1",
+      "alignment": {
+        "matches": 247,
+        "inliers": 138
+      },
+      "tables": {
+        "Access the care and support services that my family member or I need": "",
+        "I believe mental health conditions are no one\u00e2\u20ac\u2122s fault": "",
+        "I believe that people have a right and a responsibility to question their treatment provider and take an active role in their treatment": "",
+        "I see the symptoms of the mental health condition as separate from the person who has the condition": "",
+        "Manage crises that may result from mental health condition symptoms": "",
+        "Manage the stresses and negative impacts that the stigma of mental health conditions may cause me": "",
+        "Recognize the signs and symptoms of mental health conditions": "",
+        "Understand the type of services people with mental health conditions need": "",
+        "Understand what 'living in recovery' with a mental health condition means": ""
+      },
+      "text": "0 1"
+    },
+    {
+      "page": "page2.jpg",
+      "page_type": "page2",
+      "alignment": {
+        "matches": 232,
+        "inliers": 107
+      },
+      "tables": {
+        "I am willing to let NAMI use my responses and comments used anonymously for research and marketing purposes": "No",
+        "I have learned information that was new to me": "",
+        "I would recommend this program to others": "",
+        "The leaders of this program communicated effectively": "",
+        "The written materials were useful for me": "",
+        "This program was helpful for me": ""
+      },
+      "text": "0 1"
+    },
+    {
+      "page": "page3.jpg",
+      "page_type": "page3",
+      "alignment": {
+        "matches": 166,
+        "inliers": 68
+      },
+      "tables": {
+        "placeholder_q1": "AB"
+      },
+      "text": "succeeded"
+    }
+  ]
+}

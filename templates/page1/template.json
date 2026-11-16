@@ -1,0 +1,87 @@
+{
+  "pageDimensions": [ 300, 400 ],
+  "bubbleDimensions": [ 16, 15 ],
+  "customLabels": { },
+  "fieldBlocks": {
+    "Table1Q1": {
+      "origin": [ 142, 159 ],
+      "direction": "horizontal",
+      "fieldLabels": [ "Recognize the signs and symptoms of mental health conditions" ],
+      "bubbleValues": [ "Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree", "N/A" ],
+      "bubblesGap": 21,
+      "labelsGap": 30
+    },
+    "Table1Q2": {
+      "origin": [ 142, 172 ],
+      "direction": "horizontal",
+      "fieldLabels": [ "Understand the type of services people with mental health conditions need" ],
+      "bubbleValues": [ "Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree", "N/A" ],
+      "bubblesGap": 21,
+      "labelsGap": 30,
+      "bubbleDimensions": [ 16, 23 ]
+    },
+    "Table1Q3": {
+      "origin": [ 142, 193 ],
+      "direction": "horizontal",
+      "fieldLabels": [ "Understand what 'living in recovery' with a mental health condition means" ],
+      "bubbleValues": [ "Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree", "N/A" ],
+      "bubblesGap": 21,
+      "labelsGap": 30,
+      "bubbleDimensions": [ 16, 24 ]
+    },
+    "Table1Q4": {
+      "origin": [ 142, 216 ],
+      "direction": "horizontal",
+      "fieldLabels": [ "Manage crises that may result from mental health condition symptoms" ],
+      "bubbleValues": [ "Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree", "N/A" ],
+      "bubblesGap": 21,
+      "labelsGap": 30
+    },
+    "Table1Q5": {
+      "origin": [ 142, 230 ],
+      "direction": "horizontal",
+      "fieldLabels": [ "Manage the stresses and negative impacts that the stigma of mental health conditions may cause me" ],
+      "bubbleValues": [ "Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree", "N/A" ],
+      "bubblesGap": 21,
+      "labelsGap": 30,
+      "bubbleDimensions": [ 16, 22 ]
+    },
+    "Table1Q6": {
+      "origin": [ 142, 250 ],
+      "direction": "horizontal",
+      "fieldLabels": [ "Access the care and support services that my family member or I need" ],
+      "bubbleValues": [ "Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree", "N/A" ],
+      "bubblesGap": 21,
+      "labelsGap": 30,
+      "bubbleDimensions": [ 16, 25 ]
+    },
+    "Table2Q1": {
+      "origin": [ 142, 300 ],
+      "direction": "horizontal",
+      "fieldLabels": [ "I see the symptoms of the mental health condition as separate from the person who has the condition" ],
+      "bubbleValues": [ "Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree", "N/A" ],
+      "bubblesGap": 21,
+      "labelsGap": 30,
+      "bubbleDimensions": [ 16, 20 ]
+    },
+    "Table2Q2": {
+      "origin": [ 142, 319 ],
+      "direction": "horizontal",
+      "fieldLabels": [ "I believe mental health conditions are no one’s fault" ],
+      "bubbleValues": [ "Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree", "N/A" ],
+      "bubblesGap": 21,
+      "labelsGap": 30
+    },
+    "Table2Q3": {
+      "origin": [ 142, 331 ],
+      "direction": "horizontal",
+      "fieldLabels": [ "I believe that people have a right and a responsibility to question their treatment provider and take an active role in their treatment" ],
+      "bubbleValues": [ "Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree", "N/A" ],
+      "bubblesGap": 21,
+      "labelsGap": 30,
+      "bubbleDimensions": [ 16, 35 ]
+    }
+  },
+  "preProcessors": [
+  ]
+}

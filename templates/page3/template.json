@@ -1,0 +1,14 @@
+{
+  "pageDimensions": [1700, 2200],
+  "bubbleDimensions": [40, 40],
+  "preProcessors": [],
+  "fieldBlocks": {
+    "Placeholder_Block": {
+      "fieldType": "QTYPE_MCQ4",
+      "fieldLabels": ["placeholder_q1"],
+      "bubblesGap": 60,
+      "labelsGap": 60,
+      "origin": [100, 100]
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "pageDimensions": [ 1200, 1600 ],
+  "bubbleDimensions": [ 64, 60 ],
+  "customLabels": { },
+  "fieldBlocks": {
+    "Table3Q1": {
+      "origin": [ 568, 216 ],
+      "direction": "horizontal",
+      "fieldLabels": [ "This program was helpful for me" ],
+      "bubbleValues": [ "Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree", "N/A" ],
+      "bubblesGap": 84,
+      "labelsGap": 0,
+      "bubbleDimensions": [ 64, 32 ]
+    },
+    "Table3Q2": {
+      "origin": [ 568, 244 ],
+      "direction": "horizontal",
+      "fieldLabels": [ "I have learned information that was new to me" ],
+      "bubbleValues": [ "Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree", "N/A" ],
+      "bubblesGap": 84,
+      "labelsGap": 0,
+      "bubbleDimensions": [ 64, 56 ]
+    },
+    "Table3Q3": {
+      "origin": [ 568, 300 ],
+      "direction": "horizontal",
+      "fieldLabels": [ "The leaders of this program communicated effectively" ],
+      "bubbleValues": [ "Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree", "N/A" ],
+      "bubblesGap": 84,
+      "labelsGap": 0,
+      "bubbleDimensions": [ 64, 60 ]
+    },
+    "Table3Q4": {
+      "origin": [ 568, 360 ],
+      "direction": "horizontal",
+      "fieldLabels": [ "The written materials were useful for me" ],
+      "bubbleValues": [ "Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree", "N/A" ],
+      "bubblesGap": 84,
+      "labelsGap": 0,
+      "bubbleDimensions": [ 64, 60 ]
+    },
+    "Table3Q5": {
+      "origin": [ 568, 420 ],
+      "direction": "horizontal",
+      "fieldLabels": [ "I would recommend this program to others" ],
+      "bubbleValues": [ "Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree", "N/A" ],
+      "bubblesGap": 84,
+      "labelsGap": 0,
+      "bubbleDimensions": [ 64, 60 ]
+    },
+    "Chk1": {
+      "origin": [ 136, 1430 ],
+      "direction": "horizontal",
+      "fieldLabels": [ "I am willing to let NAMI use my responses and comments used anonymously for research and marketing purposes" ],
+      "bubbleValues": [ "Yes", "No" ],
+      "bubblesGap": 110,
+      "labelsGap": 0,
+      "bubbleDimensions": [ 24, 24 ]
+    }
+  },
+  "preProcessors": [
+  ]
+}
